@@ -13,7 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: #fff;
-    background-image: url(/img/photo1.png);
+    background-image: url(./img/photo1.png);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
@@ -24,7 +24,7 @@ body{
     max-width: 430px;
     width: 100%;
     background-color: #fff;
-    /* background-image: url(/img/photo1.png); */
+    /* background-image: url(./img/photo1.png); */
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
